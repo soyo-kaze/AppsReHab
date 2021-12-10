@@ -1,0 +1,1 @@
+x=msgbox("Your limit has exceed for discord It'll be closed immediately",1,"Limit Exceeded")
