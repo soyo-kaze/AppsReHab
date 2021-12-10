@@ -1,8 +1,12 @@
 # AppsReHab
-To control Apps addiction .
+
+> **_To control Apps addiction_** .
+
+- Apps time counter script for windows that tracks running time of apps and they will not run if one tries to run them past the limit they set.
 
 ## TODO
-- [X] Make the base code
+
+- [x] Make the base code
 - [ ] Document this script/tool
 - [ ] Make it run on startup
 - [ ] Use FileSystem for persistent data
